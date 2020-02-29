@@ -40,6 +40,10 @@ section {
   width: 75%;
 }
 
+.skills div {
+  display: block;
+}
+
 @media screen and (max-width: 800px) {
   body {
     width: 100%;
